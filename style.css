@@ -59,30 +59,6 @@
 }
 
 @font-face {
-    font-family: 'GT Walsheim Pro Ultra';
-    src: url('fonts/GTWalsheimPro-UltraBold.eot');
-    src: local('GT Walsheim Pro Ultra Bold'), local('GTWalsheimPro-UltraBold'),
-        url('fonts/GTWalsheimPro-UltraBold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-UltraBold.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-UltraBold.woff') format('woff'),
-        url('fonts/GTWalsheimPro-UltraBold.ttf') format('truetype');
-    font-weight: 800;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Ultra';
-    src: url('fonts/GTWalsheimPro-UltraBoldOblique.eot');
-    src: local('GT Walsheim Pro Ultra Bold Oblique'), local('GTWalsheimPro-UltraBoldOblique'),
-        url('fonts/GTWalsheimPro-UltraBoldOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-UltraBoldOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-UltraBoldOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-UltraBoldOblique.ttf') format('truetype');
-    font-weight: 800;
-    font-style: italic;
-}
-
-@font-face {
     font-family: 'GT Walsheim Pro';
     src: url('fonts/GTWalsheimPro-MediumOblique.eot');
     src: local('GT Walsheim Pro Medium Oblique'), local('GTWalsheimPro-MediumOblique'),
@@ -143,30 +119,6 @@
 }
 
 @font-face {
-    font-family: 'GT Walsheim Pro Ultra';
-    src: url('fonts/GTWalsheimPro-UltraLight.eot');
-    src: local('GT Walsheim Pro Ultra Light'), local('GTWalsheimPro-UltraLight'),
-        url('fonts/GTWalsheimPro-UltraLight.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-UltraLight.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-UltraLight.woff') format('woff'),
-        url('fonts/GTWalsheimPro-UltraLight.ttf') format('truetype');
-    font-weight: 200;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Ultra';
-    src: url('fonts/GTWalsheimPro-UltraLightOblique.eot');
-    src: local('GT Walsheim Pro Ultra Light Oblique'), local('GTWalsheimPro-UltraLightOblique'),
-        url('fonts/GTWalsheimPro-UltraLightOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-UltraLightOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-UltraLightOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-UltraLightOblique.ttf') format('truetype');
-    font-weight: 200;
-    font-style: italic;
-}
-
-@font-face {
     font-family: 'GT Walsheim Pro';
     src: url('fonts/GTWalsheimPro-BlackOblique.eot');
     src: local('GT Walsheim Pro Black Oblique'), local('GTWalsheimPro-BlackOblique'),
@@ -186,198 +138,6 @@
         url('fonts/GTWalsheimPro-Black.woff2') format('woff2'),
         url('fonts/GTWalsheimPro-Black.woff') format('woff'),
         url('fonts/GTWalsheimPro-Black.ttf') format('truetype');
-    font-weight: 900;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Cond Ultra';
-    src: url('fonts/GTWalsheimPro-CondensedUltraBold.eot');
-    src: local('GT Walsheim Pro Condensed Ultra Bold'), local('GTWalsheimPro-CondensedUltraBold'),
-        url('fonts/GTWalsheimPro-CondensedUltraBold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedUltraBold.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedUltraBold.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedUltraBold.ttf') format('truetype');
-    font-weight: 800;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedLight.eot');
-    src: local('GT Walsheim Pro Condensed Light'), local('GTWalsheimPro-CondensedLight'),
-        url('fonts/GTWalsheimPro-CondensedLight.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedLight.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedLight.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedLight.ttf') format('truetype');
-    font-weight: 300;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedBoldOblique.eot');
-    src: local('GT Walsheim Pro Condensed Bold Oblique'), local('GTWalsheimPro-CondensedBoldOblique'),
-        url('fonts/GTWalsheimPro-CondensedBoldOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedBoldOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedBoldOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedBoldOblique.ttf') format('truetype');
-    font-weight: bold;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedLightOblique.eot');
-    src: local('GT Walsheim Pro Condensed Light Oblique'), local('GTWalsheimPro-CondensedLightOblique'),
-        url('fonts/GTWalsheimPro-CondensedLightOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedLightOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedLightOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedLightOblique.ttf') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedThin.eot');
-    src: local('GT Walsheim Pro Condensed Thin'), local('GTWalsheimPro-CondensedThin'),
-        url('fonts/GTWalsheimPro-CondensedThin.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedThin.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedThin.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedThin.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GTWalsheimPro-CondensedULightIt';
-    src: url('fonts/GTWalsheimPro-CondensedUltraLightOblique.eot');
-    src: local('GT Walsheim Pro Condensed Ultra Light Oblique'), local('GTWalsheimPro-CondensedUltraLightOblique'),
-        url('fonts/GTWalsheimPro-CondensedUltraLightOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedUltraLightOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedUltraLightOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedUltraLightOblique.ttf') format('truetype');
-    font-weight: 200;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Cond';
-    src: url('fonts/GTWalsheimPro-CondensedMedium.eot');
-    src: local('GT Walsheim Pro Condensed Medium'), local('GTWalsheimPro-CondensedMedium'),
-        url('fonts/GTWalsheimPro-CondensedMedium.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedMedium.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedMedium.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedMedium.ttf') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedBlackOblique.eot');
-    src: local('GT Walsheim Pro Condensed Black Oblique'), local('GTWalsheimPro-CondensedBlackOblique'),
-        url('fonts/GTWalsheimPro-CondensedBlackOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedBlackOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedBlackOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedBlackOblique.ttf') format('truetype');
-    font-weight: 900;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedRegular.eot');
-    src: local('GT Walsheim Pro Condensed Regular'), local('GTWalsheimPro-CondensedRegular'),
-        url('fonts/GTWalsheimPro-CondensedRegular.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedRegular.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedRegular.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedRegular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedThinOblique.eot');
-    src: local('GT Walsheim Pro Condensed Thin Oblique'), local('GTWalsheimPro-CondensedThinOblique'),
-        url('fonts/GTWalsheimPro-CondensedThinOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedThinOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedThinOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedThinOblique.ttf') format('truetype');
-    font-weight: 100;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedBold.eot');
-    src: local('GT Walsheim Pro Condensed Bold'), local('GTWalsheimPro-CondensedBold'),
-        url('fonts/GTWalsheimPro-CondensedBold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedBold.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedBold.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedBold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedRegularOblique.eot');
-    src: local('GT Walsheim Pro Condensed Regular Oblique'), local('GTWalsheimPro-CondensedRegularOblique'),
-        url('fonts/GTWalsheimPro-CondensedRegularOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedRegularOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedRegularOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedRegularOblique.ttf') format('truetype');
-    font-weight: normal;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GTWalsheimPro-CondensedULight';
-    src: url('fonts/GTWalsheimPro-CondensedUltraLight.eot');
-    src: local('GT Walsheim Pro Condensed Ultra Light'), local('GTWalsheimPro-CondensedUltraLight'),
-        url('fonts/GTWalsheimPro-CondensedUltraLight.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedUltraLight.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedUltraLight.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedUltraLight.ttf') format('truetype');
-    font-weight: 200;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Cond Ultra';
-    src: url('fonts/GTWalsheimPro-CondensedUltraBoldOblique.eot');
-    src: local('GT Walsheim Pro Condensed Ultra Bold Oblique'), local('GTWalsheimPro-CondensedUltraBoldOblique'),
-        url('fonts/GTWalsheimPro-CondensedUltraBoldOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedUltraBoldOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedUltraBoldOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedUltraBoldOblique.ttf') format('truetype');
-    font-weight: 800;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Cond';
-    src: url('fonts/GTWalsheimPro-CondensedMediumOblique.eot');
-    src: local('GT Walsheim Pro Condensed Medium Oblique'), local('GTWalsheimPro-CondensedMediumOblique'),
-        url('fonts/GTWalsheimPro-CondensedMediumOblique.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedMediumOblique.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedMediumOblique.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedMediumOblique.ttf') format('truetype');
-    font-weight: 500;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'GT Walsheim Pro Condensed';
-    src: url('fonts/GTWalsheimPro-CondensedBlack.eot');
-    src: local('GT Walsheim Pro Condensed Black'), local('GTWalsheimPro-CondensedBlack'),
-        url('fonts/GTWalsheimPro-CondensedBlack.eot?#iefix') format('embedded-opentype'),
-        url('fonts/GTWalsheimPro-CondensedBlack.woff2') format('woff2'),
-        url('fonts/GTWalsheimPro-CondensedBlack.woff') format('woff'),
-        url('fonts/GTWalsheimPro-CondensedBlack.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
 }
@@ -427,7 +187,7 @@ h1, h2, h3, a{
 /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 header{
-    height: 100px;
+    height: 110px;
     width: 100%;
     max-width: 1920px;
     position: fixed;
@@ -436,14 +196,25 @@ header{
     left: 50%;
     transform: translateX(-50%);
     z-index: 1000;
+    transition: .3s ease-in-out;
+}
+
+header.scrolling{
+    height: 70px;
+    box-shadow: 0 2px 3px rgb(0 0 0 / 5%);
 }
 
 header nav.main{
-    height: 100px;
+    height: 110px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 30px;
+    transition: .3s ease-in-out;
+}
+
+header.scrolling nav.main{
+    height: 70px;
 }
 
 header nav.main a.logo{
@@ -484,7 +255,7 @@ header nav.main div.contain-links a span.cart{
 /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 section#main{
-    padding: 20px 0;
+    padding: 20px 0 40px 0;
 }
 
 section#main div.container h1{
@@ -550,12 +321,179 @@ section#main div.container div.content a.btn{
 
 section#pictos{
     background-color: #fbc386;
-    padding: 40px 0;
+    padding: 20px 0;
+}
+
+section#pictos div.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 40px;
+}
+
+section#pictos div.container div.col{
+    padding: 20px 40px;
+    text-align: center;
+}
+
+section#pictos div.container div.col p.txt{
+    font-weight: 500;
+}
+
+section#pictos div.container div.col span.icon{
+    width: 32px;
+    height: 32px;
+    display: block;
+    margin: 0 auto 20px auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+section#pictos div.container div.col:nth-child(1) span.icon{
+    background-image: url(img/livraison-offerte-protections-periodiques.webp)
+}
+
+section#pictos div.container div.col:nth-child(2) span.icon{
+    background-image: url(img/paiement-securise.webp)
+}
+
+section#pictos div.container div.col:nth-child(3) span.icon{
+    background-image: url(img/satisfaction-client.webp)
 }
 
 /*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 footer{
     background-color: #fdb770;
-    padding: 60px 0;
+    padding: 60px 0 40px 0;
+}
+
+footer a span:hover{
+    border-bottom: 2px solid black;
+}
+
+footer div.up{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    padding-right: 40px;
+}
+
+footer div.up a.logo{
+    font-size: 36px;
+}
+
+footer div.up a.logo:hover{
+    border-bottom: inherit;
+}
+
+footer div.up div.col{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 250px;
+}
+
+footer div.up div.col:not(:last-child){
+    margin-right: 40px;
+}
+
+footer div.up div.col:first-child{
+    min-width: 300px;
+}
+
+footer div.up div.col a{
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+footer div.up div.col a:not(:last-child){
+    margin-bottom: 8px;
+}
+
+footer div.up div.col a.instagram{
+    position: relative;
+    margin-left: 30px;
+}
+
+footer div.up div.col a.instagram:before{
+    content:'';
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: url(img/instagram.webp);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    left: -30px;
+    top: 2px;
+    position: absolute;
+}
+
+footer div.up div.col a.facebook{
+    position: relative;
+    margin-left: 30px;
+}
+
+footer div.up div.col a.facebook:before{
+    content:'';
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: url(img/facebook.webp);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    left: -30px;
+    top: 2px;
+    position: absolute;
+}
+
+footer div.up div.col a.linkedin{
+    position: relative;
+    margin-left: 30px;
+}
+
+footer div.up div.col a.linkedin:before{
+    content:'';
+    display: block;
+    width: 20px;
+    height: 20px;
+    background: url(img/linkedin.webp);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    left: -30px;
+    top: 2px;
+    position: absolute;
+}
+
+footer div.up div.col span.first{
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+footer div.down{
+    display: flex;
+    margin-top: 20px;
+}
+
+footer div.down a{
+    opacity: .5;
+}
+
+footer div.down a:not(:last-child){
+    margin-right: 10px;
+}
+
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+@media screen and (max-width: 1000px) {
+    header, footer{
+        display: none;
+    }
+    section#main{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
 }
